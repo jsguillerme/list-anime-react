@@ -1,0 +1,17 @@
+.options-list label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.options-list select {
+    background-color: #FFFFFF;
+    width: 100%;
+    margin-top: 12px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 14px;
+    box-sizing: border-box;
+}

@@ -1,0 +1,48 @@
+.lista-animes {
+    padding: 32px;
+    width: 90%;
+}
+
+.lista-text-search {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 28px;
+}
+
+.lista-text-search h3 {
+    font-size: 30px;
+}
+
+.lista-text-search input {
+    background-color: #514B4B;
+    color: #beb9b9;
+    width: 510px;
+    box-shadow: none;
+}
+
+.lista-animes h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+    color: #FFFFFF;
+}
+
+.lista-animes .animes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+.lista-vazia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-vazia img{
+    width: 400px;
+    height: 400px;
+}

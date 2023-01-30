@@ -1,0 +1,23 @@
+.input {
+    margin: 22px 0px;
+
+}
+
+.input label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #e8e6e3;
+}
+
+.input input {
+    background-color: #FFFFFF;
+    color: #1b1a1a;
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 14px;
+    box-sizing: border-box;
+}
